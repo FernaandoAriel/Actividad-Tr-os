@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 console.log("línea 1 de cadena de texto\n" + "línea 2 de cadena de texto");
-=======
 Swal.fire({
     title: "Submit your Github username",
     input: "text",
@@ -37,4 +35,3 @@ Swal.fire({
       });
     }
   });
->>>>>>> cd6c116918a032303d96235ec71a607ed9fe3aff
