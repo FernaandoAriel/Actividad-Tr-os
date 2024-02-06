@@ -1,0 +1,1 @@
+console.log("línea 1 de cadena de texto\n" + "línea 2 de cadena de texto");
